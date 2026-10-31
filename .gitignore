@@ -1,0 +1,5 @@
+# WSL Backup images
+*.tar.xz
+*.tar.gz
+*.tar
+*.vhdx
