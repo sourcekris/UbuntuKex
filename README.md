@@ -27,7 +27,7 @@ Inside your Ubuntu WSL terminal:
 To repeat this setup on a clean Ubuntu WSL2 instance:
 
 ```bash
-cd /mnt/c/Users/sewid/source/repos/UbuntuKex
+cd /mnt/c/Users/username/path/UbuntuKex
 sudo bash ./install-kex.sh
 ```
 
